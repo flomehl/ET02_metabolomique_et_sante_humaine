@@ -81,7 +81,7 @@ instructions, les scripts et les liens vers les données.
   | 09:15   | MZmine : cours théorique                                      | A. Rutz       | *à venir* |
   | 10:45   | MZmine : atelier pratique                                     | A. Rutz       | *à venir* |
   | 13:30   | MetGem : réseaux moléculaires et propagation de l'annotation  | D. Touboul    | *à venir* |
-  | 15:15   | MetGem : atelier pratique                                     | D. Touboul    | *à venir* |
+  | 15:15   | MetGem : atelier pratique                                     | D. Touboul    | *[2026-10-07_DavidTouboul_MetGem](J3_mercredi_annotation/MS/2026-10-07_DavidTouboul_MetGem)* |
   | 16:30   | Annotation : importance du contexte                           | A. Rutz       | *à venir* |
 
 **Session RMN**
