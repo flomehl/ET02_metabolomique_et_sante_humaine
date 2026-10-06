@@ -68,7 +68,7 @@ instructions, les scripts et les liens vers les données.
   | 08:30   | Échantillons cliniques et couverture du métabolome : choix et compromis               | J. Bertrand-Michel                                                  | *[2026-10-06_JustineBertrand-Michel](J2_mardi_methodologie-qualite/2026-10-06_JustineBertrand-Michel.pdf)* |
   | 09:15   | La RMN a-t-elle encore une place en métabolomique clinique ?                          | P. de Tullio                                                        | *à venir* |
   | 10:15   | De la préparation des échantillons à la confiance clinique : qualité et harmonisation | V. González-Ruiz                                                    | *[2026-10-06_VGR_qualite_harmonisation](J2_mardi_methodologie-qualite/2026-10-06_VGR_qualite_harmonisation.pdf)* |
-  | 11:15   | Table ronde : études multicentriques                                                  | J.-C. Martin (mod.), J. Bertrand-Michel, R. Thuillier, A. Limonciel | —         |
+  | 11:15   | Table ronde : études multicentriques                                                  | J.-C. Martin (mod.), J. Bertrand-Michel, R. Thuillier, A. Limonciel | *[2026-10-06_jcmartin_metaboring](J2_mardi_methodologie-qualite/2026-10-06_jcmartin_metaboring.pptx)*        |
   | 14:00   | Présentations flash des participant·es                                                | Tous                                                                | —         |
   | 17:15   | Études longitudinales et stabilité des échantillons                                   | E. Salanon                                                          | *à venir* |
 
