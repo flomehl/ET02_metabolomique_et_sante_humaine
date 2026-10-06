@@ -106,7 +106,7 @@ instructions, les scripts et les liens vers les données.
   | ---     | ---                                                                        | ---                    | ---       |
   | 09:00   | Découverte à partir des dépôts de données : PAN-REPO, MASST, MicrobeMASST  | V. Charron-Lamoureux   | *à venir* |
   | 11:15   | Intégration de données multiomiques / multiblocs : atelier pratique        | F. Mehl                | *à venir* |
-  | 14:00   | Intégration multiomique / multiblocs : suite                               | F. Mehl                | *à venir* |
+  | 14:00   | Intégration multiomique / multiblocs : suite                               | F. Mehl                | *[2026-10-07_FlorenceMehl_Multiblock](J4_jeudi_donnees-IA/2026-10-07_FlorenceMehl_Multiblock)* |
   | 15:30   | Atelier LLM : grands modèles de langage en métabolomique                   | Animé par R. Thuillier | *à venir* |
 
 ### Jour 5 · Vendredi 09/10 --- Ontologies et données FAIR
