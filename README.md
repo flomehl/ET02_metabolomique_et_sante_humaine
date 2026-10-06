@@ -65,7 +65,7 @@ instructions, les scripts et les liens vers les données.
 
   | Horaire | Session                                                                               | Intervenant·e                                                       | Matériel  |
   | ---     | ---                                                                                   | ---                                                                 | ---       |
-  | 08:30   | Échantillons cliniques et couverture du métabolome : choix et compromis               | J. Bertrand-Michel                                                  | *à venir* |
+  | 08:30   | Échantillons cliniques et couverture du métabolome : choix et compromis               | J. Bertrand-Michel                                                  | *[2026-10-06_JustineBertrand-Michel](J2_mardi_methodologie-qualite/2026-10-06_JustineBertrand-Michel.pdf)* |
   | 09:15   | La RMN a-t-elle encore une place en métabolomique clinique ?                          | P. de Tullio                                                        | *à venir* |
   | 10:15   | De la préparation des échantillons à la confiance clinique : qualité et harmonisation | V. González-Ruiz                                                    | *à venir* |
   | 11:15   | Table ronde : études multicentriques                                                  | J.-C. Martin (mod.), J. Bertrand-Michel, R. Thuillier, A. Limonciel | —         |
