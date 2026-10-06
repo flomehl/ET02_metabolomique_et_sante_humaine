@@ -70,7 +70,7 @@ instructions, les scripts et les liens vers les données.
   | 10:15   | De la préparation des échantillons à la confiance clinique : qualité et harmonisation | V. González-Ruiz                                                    | *[2026-10-06_VGR_qualite_harmonisation](J2_mardi_methodologie-qualite/2026-10-06_VGR_qualite_harmonisation.pdf)* |
   | 11:15   | Table ronde : études multicentriques                                                  | J.-C. Martin (mod.), J. Bertrand-Michel, R. Thuillier, A. Limonciel | *[2026-10-06_jcmartin_metaboring](J2_mardi_methodologie-qualite/2026-10-06_jcmartin_metaboring.pptx)*        |
   | 14:00   | Présentations flash des participant·es                                                | Tous                                                                | —         |
-  | 17:15   | Études longitudinales et stabilité des échantillons                                   | E. Salanon                                                          | *à venir* |
+  | 17:15   | Études longitudinales et stabilité des échantillons                                   | E. Salanon                                                          | *[2026-10-06_ElfriedSalanon_Etudes_longitudinales_stabilite](J2_mardi_methodologie-qualite/2026-10-06_ElfriedSalanon_Etudes_longitudinales_stabilite.pdf)* |
 
 ### Jour 3 · Mercredi 07/10 --- Annotation et réseaux moléculaires (sessions parallèles)
 
