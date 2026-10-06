@@ -4,7 +4,7 @@
 
 Ce dépôt centralise le matériel pédagogique de l'école : présentations, tutoriels, scripts et jeux de données des ateliers.
 
-🌐 Site de l'école : <https://2-et-rfmf-2026.sciencesconf.org> · LinkedIn : `#ET2RFMF`
+🌐 Site de l'école : <https://2-et-rfmf-2026.sciencesconf.org>
 
 ---
 
