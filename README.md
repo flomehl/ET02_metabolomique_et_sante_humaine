@@ -98,7 +98,7 @@ instructions, les scripts et les liens vers les données.
 
   | Horaire | Session                                        | Intervenant·e | Matériel  |
   | ---     | ---                                            | ---           | ---       |
-  | 17:15   | Étude de cas en métabolomique et santé humaine | F. Fauvelle   | *à venir* |
+  | 17:15   | Étude de cas en métabolomique et santé humaine | F. Fauvelle   | *[2026-10-07_FlorenceFauvelle_CaseStudy](J3_mercredi_annotation/2026-10-07_FlorenceFauvelle_CaseStudy.pdf)* |
 
 ### Jour 4 · Jeudi 08/10 --- Exploration des données, analyses multivariées et IA
 
