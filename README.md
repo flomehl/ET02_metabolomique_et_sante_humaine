@@ -78,11 +78,11 @@ instructions, les scripts et les liens vers les données.
 
   | Horaire | Session                                                       | Intervenant·e | Matériel  |
   | ---     | ---                                                           | ---           | ---       |
-  | 09:15   | MZmine : cours théorique                                      | A. Rutz       | *à venir* |
-  | 10:45   | MZmine : atelier pratique                                     | A. Rutz       | *à venir* |
+  | 09:15   | MZmine : cours théorique                                      | A. Rutz       | *[20261007_aussois-mzmine-theorie.pdf](J3_mercredi_annotation/MS/20261007_mzmine/20261007_aussois-mzmine-theorie.pdf])* |
+  | 10:45   | MZmine : atelier pratique                                     | A. Rutz       | *[20261007_aussois-mzmine-pratique.pdf](J3_mercredi_annotation/MS/20261007_mzmine/20261007_aussois-mzmine-pratique.pdf])* |
   | 13:30   | MetGem : réseaux moléculaires et propagation de l'annotation  | D. Touboul    | *à venir* |
   | 15:15   | MetGem : atelier pratique                                     | D. Touboul    | *[2026-10-07_DavidTouboul_MetGem](J3_mercredi_annotation/MS/2026-10-07_DavidTouboul_MetGem)* |
-  | 16:30   | Annotation : importance du contexte                           | A. Rutz       | *à venir* |
+  | 16:30   | Annotation : importance du contexte                           | A. Rutz       | *[20261007_aussois-annotations-contextualisation.pdf](J3_mercredi_annotation/MS/20261007_aussois-annotations-contextualisation.pdf)* |
 
 **Session RMN**
 
