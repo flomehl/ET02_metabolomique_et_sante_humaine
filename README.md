@@ -56,9 +56,9 @@ instructions, les scripts et les liens vers les données.
 
   | Horaire | Session                                                                              | Intervenant·e  | Matériel  |
   | ---     | ---                                                                                  | ---            | ---       |
-  | 17:00   | Mot d'ouverture                                                                      | A. Le Gouellec | —         |
+  | 17:00   | Mot d'ouverture                                                                      | A. Le Gouellec | *[2026-10-06_LeGouellec_Slide Accueil_Ecole_thematique_Aussois](J1_lundi_metabolomique-clinique/2026-10-06_LeGouellec_Slide Accueil_Ecole_thematique_Aussois.pptx)*         |
   | 17:15   | La métabolomique clinique à l'hôpital : point de vue d'un biologiste médical         | G. Grzych      | *à venir* |
-  | 18:00   | La métabolomique clinique : point de vue de l'industrie                              | A. Limonciel   | *à venir* |
+  | 18:00   | La métabolomique clinique : point de vue de l'industrie                              | A. Limonciel   | *[2026-10-06_Alice_Limonciel_Clinical metabolomics - Industry point of view_v2.pdf](J1_lundi_metabolomique-clinique/2026-10-06_Alice_Limonciel_Clinical metabolomics - Industry point of view_v2.pdf)* |
   | 18:45   | Construire un projet de recherche clinique : réglementation et gestion des données   | P. Audoin      | *[2026-10-06_PierreAudouin_reglementaire](J1_lundi_metabolomique-clinique/2026-10-06_PierreAudouin_reglementaire.pdf)* |
 
 ### Jour 2 · Mardi 06/10 --- Défis méthodologiques et assurance qualité
