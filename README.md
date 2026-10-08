@@ -109,7 +109,7 @@ instructions, les scripts et les liens vers les données.
   | 14:00   | Intégration multiomique / multiblocs : suite                               | F. Mehl                | *[2026-10-07_FlorenceMehl_Multiblock](J4_jeudi_donnees-IA/2026-10-07_FlorenceMehl_Multiblock)* |
   | 15:30   | Atelier LLM : grands modèles de langage en métabolomique                   | Animé par R. Thuillier | *à venir* |
 
-### Jour 5 · Vendredi 09/10 --- Ontologies et données FAIR
+### Jour 5 · Vendredi 09/10 --- Contextualisation
 
   | Horaire | Session                                                                     | Intervenant·e  | Matériel  |
   | ---     | ---                                                                         | ---            | ---       |
