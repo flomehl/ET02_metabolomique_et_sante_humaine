@@ -104,7 +104,7 @@ instructions, les scripts et les liens vers les données.
 
   | Horaire | Session                                                                    | Intervenant·e          | Matériel  |
   | ---     | ---                                                                        | ---                    | ---       |
-  | 09:00   | Découverte à partir des dépôts de données : PAN-REPO, MASST, MicrobeMASST  | V. Charron-Lamoureux   | *à venir* |
+  | 09:00   | Découverte à partir des dépôts de données : PAN-REPO, MASST, MicrobeMASST  | V. Charron-Lamoureux   | *[2026-10-08_VincentCharronLamoureux_discovery](J4_jeudi_donnees-IA/Aussois_talk_final_Vincent_discovery.pdf)* |
   | 11:15   | Intégration de données multiomiques / multiblocs : atelier pratique        | F. Mehl                | *[2026-10-07_FlorenceMehl_Multiblock](J4_jeudi_donnees-IA/2026-10-07_FlorenceMehl_Multiblock)* |
   | 14:00   | Intégration multiomique / multiblocs : suite                               | F. Mehl                | *[2026-10-07_FlorenceMehl_Multiblock](J4_jeudi_donnees-IA/2026-10-07_FlorenceMehl_Multiblock)* |
   | 15:30   | Atelier LLM : grands modèles de langage en métabolomique                   | Animé par R. Thuillier | *à venir* |
