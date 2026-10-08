@@ -89,7 +89,7 @@ instructions, les scripts et les liens vers les données.
   | Horaire | Session                                                                | Intervenant·e              | Matériel  |
   | ---     | ---                                                                    | ---                        | ---       |
   | 09:15   | Bonnes pratiques d'échantillonnage et de préparation des échantillons  | G. Bertho                  | *à venir* |
-  | 10:45   | Traitement des données RMN : des spectres aux métabolites              | C. Goossens                | *à venir* |
+  | 10:45   | Traitement des données RMN : des spectres aux métabolites              | C. Goossens                | *[2026-10-07_CorentineGoossens_NMRprocessing](J3_mercredi_annotation/RMN/2026-10-07_CorentineGoossens_NMRprocessing.pdf)* |
   | 13:30   | RMN bidimensionnelle en métabolomique clinique                         | M. Letertre & P. de Tullio | *à venir* |
   | 15:15   | Quantification par RMN en métabolomique clinique                       | C. Goossens & G. Bertho    | *à venir* |
   | 16:30   | RMN et MS : approches complémentaires en multiomique                   | M. Letertre                | *à venir* |
