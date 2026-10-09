@@ -107,7 +107,7 @@ l'analyse et l'intégration des données.
 | 09:00 | Découverte à partir des dépôts de données : PAN-REPO, MASST, MicrobeMASST | V. Charron-Lamoureux | [Présentation (PDF)](J4_jeudi_donnees-IA/Aussois_talk_final_Vincent_discovery.pdf) |
 | 11:15 | Intégration de données multiomiques / multiblocs : atelier pratique | F. Mehl | Voir [matériel multiblocs](#matériel-de-latelier-multiblocs) ci-dessous |
 | 14:00 | Intégration multiomique / multiblocs : suite | F. Mehl | Voir [matériel multiblocs](#matériel-de-latelier-multiblocs) ci-dessous |
-| 15:30 | Atelier LLM : grands modèles de langage en métabolomique | Animé par R. Thuillier | *[Comptes rendus de l'atelier](J4_jeudi_donnees-IA/Atelier_LLM/)* |
+| 15:30 | Atelier LLM : grands modèles de langage en métabolomique | Animé par R. Thuillier | [Comptes rendus de l'atelier](J4_jeudi_donnees-IA/Atelier_LLM/) |
 
 #### Matériel de l'atelier multiblocs
 
