@@ -84,7 +84,7 @@ scripts et données.
 | --- | --- | --- | --- |
 | 09:15 | MZmine : cours théorique | A. Rutz | [Cours (PDF)](J3_mercredi_annotation/MS/20261007_mzmine/20261007_aussois-mzmine-theorie.pdf) |
 | 10:45 | MZmine : atelier pratique | A. Rutz | [Atelier (PDF)](J3_mercredi_annotation/MS/20261007_mzmine/20261007_aussois-mzmine-pratique.pdf) |
-| 13:30 | MetGem : réseaux moléculaires et propagation de l'annotation | D. Touboul | *à venir* |
+| 13:30 | MetGem : réseaux moléculaires et propagation de l'annotation | D. Touboul | *[Cours (PDF)](J3_mercredi_annotation/MS/2026-10-07_DavidTouboul_MetGem/cours_MetGem_2026.pdf)* |
 | 15:15 | MetGem : atelier pratique | D. Touboul | [Dossier de l'atelier](J3_mercredi_annotation/MS/2026-10-07_DavidTouboul_MetGem/) — données : [MSV000080502_MetGem.mgf](J3_mercredi_annotation/MS/2026-10-07_DavidTouboul_MetGem/MSV000080502_MetGem.mgf), [MSV000080502_MetGem_quant.csv](J3_mercredi_annotation/MS/2026-10-07_DavidTouboul_MetGem/MSV000080502_MetGem_quant.csv), [PHENOLICSDB.mgf](J3_mercredi_annotation/MS/2026-10-07_DavidTouboul_MetGem/PHENOLICSDB.mgf) |
 | 16:30 | Annotation : importance du contexte | A. Rutz | [Présentation (PDF)](J3_mercredi_annotation/MS/20261007_aussois-annotations-contextualisation.pdf) |
 
