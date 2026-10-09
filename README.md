@@ -48,10 +48,6 @@ l'analyse et l'intégration des données.
 └── README.md
 ```
 
-Les présentations (PDF ou PPTX) sont déposées directement dans le dossier du
-jour. Les ateliers disposent de leur propre sous-dossier contenant supports,
-scripts et données.
-
 ---
 
 ## Programme et matériel
@@ -138,32 +134,11 @@ Dossier : [`J4_jeudi_donnees-IA/2026-10-07_FlorenceMehl_Multiblock/`](J4_jeudi_d
 
 ## Logiciels pour les ateliers
 
-À installer **avant** l'école :
-
 - **MZmine** — <https://mzmine.github.io/> (vérifier la version demandée dans
   les consignes de l'intervenant)
 - **MetGem** — <https://metgem.github.io/>
 - **R / RStudio** pour l'atelier multiblocs — packages à installer avec
   [packages_installation.R](J4_jeudi_donnees-IA/2026-10-07_FlorenceMehl_Multiblock/packages_installation.R)
-
-Les jeux de données volumineux des ateliers sont distribués via RENATER
-FileSender (lien transmis par e-mail aux participant·es).
-
----
-
-## Pour les intervenant·es : déposer votre matériel
-
-1. Placez vos fichiers dans le dossier du jour correspondant (PDF de préférence
-   pour les présentations).
-2. Pour un atelier, créez un sous-dossier et ajoutez-y un `README.md` décrivant
-   les prérequis, les étapes et l'origine des données.
-3. Remplacez *à venir* dans le tableau ci-dessus par le lien vers votre dossier
-   ou fichier.
-4. Évitez les fichiers volumineux (> 50 Mo) : préférez un lien vers Zenodo ou un
-   autre dépôt.
-
-Vous pouvez aussi envoyer vos fichiers au comité d'organisation, qui les
-ajoutera pour vous.
 
 ---
 
@@ -181,8 +156,7 @@ propriété de leurs auteur·es : merci de les citer en cas de réutilisation.
 de Métabolomique et Fluxomique · [SFBC](https://www.sfbc-asso.fr/) — Société
 Française de Biologie Clinique
 
-**Soutien** : CNRS · [CAES du CNRS — Centre
-Paul-Langevin](https://www.caes.cnrs.fr/sejours/centre-paul-langevin-3-2/)
+**Soutien** : CNRS
 
 **Coordination scientifique** : Audrey Le Gouellec
 
