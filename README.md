@@ -130,7 +130,7 @@ Dossier : [`J4_jeudi_donnees-IA/2026-10-07_FlorenceMehl_Multiblock/`](J4_jeudi_d
 
 | Horaire | Session | Intervenant·e | Matériel |
 | --- | --- | --- | --- |
-| 09:00 | Contextualisation biologique des données analytiques | J.-C. Martin | *à venir* |
+| 09:00 | Contextualisation biologique des données analytiques | J.-C. Martin | *[Présentation (PDF)](J5_vendredi_contextualisation/2026-10-09_JCMartin_contextualisation.pdf)* |
 | 10:30 | Ontologies et vocabulaire contrôlé pour des données FAIR et adaptées à l'IA | M. Weber | [Présentation (PDF)](J5_vendredi_contextualisation/2026-10-08_MagalieWeber_FAIR_ontologies.pdf) |
 | 11:45 | Bilan de la semaine | A. Le Gouellec | — |
 
