@@ -48,10 +48,6 @@ l'analyse et l'intégration des données.
 └── README.md
 ```
 
-Les présentations (PDF ou PPTX) sont déposées directement dans le dossier du
-jour. Les ateliers disposent de leur propre sous-dossier contenant supports,
-scripts et données.
-
 ---
 
 ## Programme et matériel
@@ -84,7 +80,7 @@ scripts et données.
 | --- | --- | --- | --- |
 | 09:15 | MZmine : cours théorique | A. Rutz | [Cours (PDF)](J3_mercredi_annotation/MS/20261007_mzmine/20261007_aussois-mzmine-theorie.pdf) |
 | 10:45 | MZmine : atelier pratique | A. Rutz | [Atelier (PDF)](J3_mercredi_annotation/MS/20261007_mzmine/20261007_aussois-mzmine-pratique.pdf) |
-| 13:30 | MetGem : réseaux moléculaires et propagation de l'annotation | D. Touboul | *[Cours (PDF)](J3_mercredi_annotation/MS/2026-10-07_DavidTouboul_MetGem/cours_MetGem_2026.pdf)* |
+| 13:30 | MetGem : réseaux moléculaires et propagation de l'annotation | D. Touboul | [Cours (PDF)](J3_mercredi_annotation/MS/2026-10-07_DavidTouboul_MetGem/cours_MetGem_2026.pdf) |
 | 15:15 | MetGem : atelier pratique | D. Touboul | [Dossier de l'atelier](J3_mercredi_annotation/MS/2026-10-07_DavidTouboul_MetGem/) — données : [MSV000080502_MetGem.mgf](J3_mercredi_annotation/MS/2026-10-07_DavidTouboul_MetGem/MSV000080502_MetGem.mgf), [MSV000080502_MetGem_quant.csv](J3_mercredi_annotation/MS/2026-10-07_DavidTouboul_MetGem/MSV000080502_MetGem_quant.csv), [PHENOLICSDB.mgf](J3_mercredi_annotation/MS/2026-10-07_DavidTouboul_MetGem/PHENOLICSDB.mgf) |
 | 16:30 | Annotation : importance du contexte | A. Rutz | [Présentation (PDF)](J3_mercredi_annotation/MS/20261007_aussois-annotations-contextualisation.pdf) |
 
@@ -111,7 +107,7 @@ scripts et données.
 | 09:00 | Découverte à partir des dépôts de données : PAN-REPO, MASST, MicrobeMASST | V. Charron-Lamoureux | [Présentation (PDF)](J4_jeudi_donnees-IA/Aussois_talk_final_Vincent_discovery.pdf) |
 | 11:15 | Intégration de données multiomiques / multiblocs : atelier pratique | F. Mehl | Voir [matériel multiblocs](#matériel-de-latelier-multiblocs) ci-dessous |
 | 14:00 | Intégration multiomique / multiblocs : suite | F. Mehl | Voir [matériel multiblocs](#matériel-de-latelier-multiblocs) ci-dessous |
-| 15:30 | Atelier LLM : grands modèles de langage en métabolomique | Animé par R. Thuillier | *[Comptes rendus de l'atelier](J4_jeudi_donnees-IA/Atelier_LLM/)* |
+| 15:30 | Atelier LLM : grands modèles de langage en métabolomique | Animé par R. Thuillier | [Comptes rendus de l'atelier](J4_jeudi_donnees-IA/Atelier_LLM/) |
 
 #### Matériel de l'atelier multiblocs
 
@@ -138,32 +134,11 @@ Dossier : [`J4_jeudi_donnees-IA/2026-10-07_FlorenceMehl_Multiblock/`](J4_jeudi_d
 
 ## Logiciels pour les ateliers
 
-À installer **avant** l'école :
-
 - **MZmine** — <https://mzmine.github.io/> (vérifier la version demandée dans
   les consignes de l'intervenant)
 - **MetGem** — <https://metgem.github.io/>
 - **R / RStudio** pour l'atelier multiblocs — packages à installer avec
   [packages_installation.R](J4_jeudi_donnees-IA/2026-10-07_FlorenceMehl_Multiblock/packages_installation.R)
-
-Les jeux de données volumineux des ateliers sont distribués via RENATER
-FileSender (lien transmis par e-mail aux participant·es).
-
----
-
-## Pour les intervenant·es : déposer votre matériel
-
-1. Placez vos fichiers dans le dossier du jour correspondant (PDF de préférence
-   pour les présentations).
-2. Pour un atelier, créez un sous-dossier et ajoutez-y un `README.md` décrivant
-   les prérequis, les étapes et l'origine des données.
-3. Remplacez *à venir* dans le tableau ci-dessus par le lien vers votre dossier
-   ou fichier.
-4. Évitez les fichiers volumineux (> 50 Mo) : préférez un lien vers Zenodo ou un
-   autre dépôt.
-
-Vous pouvez aussi envoyer vos fichiers au comité d'organisation, qui les
-ajoutera pour vous.
 
 ---
 
@@ -181,8 +156,7 @@ propriété de leurs auteur·es : merci de les citer en cas de réutilisation.
 de Métabolomique et Fluxomique · [SFBC](https://www.sfbc-asso.fr/) — Société
 Française de Biologie Clinique
 
-**Soutien** : CNRS · [CAES du CNRS — Centre
-Paul-Langevin](https://www.caes.cnrs.fr/sejours/centre-paul-langevin-3-2/)
+**Soutien** : CNRS
 
 **Coordination scientifique** : Audrey Le Gouellec
 
