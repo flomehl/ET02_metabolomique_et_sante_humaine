@@ -57,7 +57,7 @@ l'analyse et l'intégration des données.
 | Horaire | Session | Intervenant·e | Matériel |
 | --- | --- | --- | --- |
 | 17:00 | Mot d'ouverture | A. Le Gouellec | [Slides d'accueil (PPTX)](J1_lundi_metabolomique-clinique/2026-10-06_LeGouellec_Slide_Accueil_Ecole_thematique_Aussois.pptx) |
-| 17:15 | La métabolomique clinique à l'hôpital : point de vue d'un biologiste médical | G. Grzych | *à venir* |
+| 17:15 | La métabolomique clinique à l'hôpital : point de vue d'un biologiste médical | G. Grzych | [Présentation (PDF)](J1_lundi_metabolomique-clinique/2026-10-06_GuillaumeGrzych_ClinicalMetaboHealthcare.pdf) |
 | 18:00 | La métabolomique clinique : point de vue de l'industrie | A. Limonciel | [Présentation (PDF)](J1_lundi_metabolomique-clinique/2026-10-06_AliceLimonciel_Clinical_metabolomics_Industry_point_of_view.pdf) |
 | 18:45 | Construire un projet de recherche clinique : réglementation et gestion des données | P. Audouin | [Présentation (PDF)](J1_lundi_metabolomique-clinique/2026-10-06_PierreAudouin_reglementaire.pdf) |
 
